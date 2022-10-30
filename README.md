@@ -2,6 +2,8 @@
 
 MAKE VIRTUAL ENVIRONMENT
 
+---------- py -m venv env
+
 
 Libraries required:
 
