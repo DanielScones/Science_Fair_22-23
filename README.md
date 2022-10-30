@@ -2,11 +2,14 @@
 
 Libraries required:
 
-time -
+time
 
-numpy 
+numpy
+
 pyaudio
-struct 
+
+struct
+
 matplotlib
 
 ------   pip install numpy pyaudio struct matplotlib   ------
