@@ -2,8 +2,9 @@
 
 Libraries required:
 
-time
-numpy
+time -
+
+numpy 
 pyaudio
 struct 
 matplotlib
